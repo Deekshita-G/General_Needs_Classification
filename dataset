@@ -1,1 +1,24 @@
+Dataset: Donate-a-Cry Corpus
 
+This project uses the Donate-a-Cry Corpus dataset for infant cry classification.
+
+Dataset source:
+https://www.kaggle.com/datasets/warcoder/donateacry-corpus
+
+Total audio samples: 457
+
+Steps to download dataset:
+1. Go to the Kaggle link above
+2. Download the dataset
+3. Extract it
+4. Place the folder inside the dataset directory
+
+Dataset Distribution:
+
+ Class          Number of Files 
+
+belly_pain         16 
+burping            8 
+discomfort         27
+hungry             382 
+tired              24 
