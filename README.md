@@ -27,7 +27,7 @@ Duration	6–7 seconds
 Categories	Belly Pain, Burping, Discomfort, Hungry, Tired
 
 **Dataset Source:**
-https://www.kaggle.com/datasets/bhoomikavalani/donateacrycorpusfeaturesdataset
+https://www.kaggle.com/datasets/warcoder/donateacry-corpus
 
 **Project Workflow**
 The system follows the HAST-LNC workflow pipeline:
